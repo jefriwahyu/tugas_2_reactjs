@@ -1,6 +1,15 @@
 # Tugas 2 React JS
 
-Membuat <b><i>Props</i></b> dan <b><i>State</i></b>
+<b>Tujuan : </b>
+
+<ul>
+  <li>Memahami cara penulisan function component.</li>
+  <li>Memahami cara penulisan export dan import component.</li>
+  <li>Memahami cara penggunaan props pada class component.</li>
+  <li>Memahami cara penggunaan props pada function component.</li>
+  <li>Memahami cara penulisan state.</li>
+  <li>Memahami cara penggunaan state dan props.</li>
+</ul>
 
 <b>Output in browser : </b>
 
